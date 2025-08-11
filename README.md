@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Animated Header" width="300"/>
+  <img src="welcome-header.gif" alt="Animated Header" width="800"/>
 </p>
 
 # 👋 Nguyễn Anh Tuấn - Fullstack Developer
